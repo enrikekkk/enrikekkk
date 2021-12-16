@@ -1,1 +1,1 @@
-I am Henrique, I am studying shell script.
+I am Henrique.
